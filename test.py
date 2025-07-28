@@ -1,1 +1,3 @@
-print("Git is a distributed version control system.\nGit is free software distributed under the GPL.")
+print("Git is a distributed version control system.\n"
+      "Git is free software distributed under the GPL.\n"
+      "Git has a mutable index called stage.")
