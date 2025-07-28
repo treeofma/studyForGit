@@ -1,1 +1,1 @@
-print("hello world")
+print("Git is a distributed version control system.\nGit is free software distributed under the GPL.")
